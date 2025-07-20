@@ -16,7 +16,7 @@ This project demonstrates how to segment customers using RFM analysis (Recency, 
 
 ### ⚙️ Tools & Technologies
 
-- **Python** (pandas, datetime)
+- **Python** (pandas, seaborn, matplotlib)
 - **Jupyter Notebook**
 - **CSV Dataset** (simulated e-commerce transactions)
 

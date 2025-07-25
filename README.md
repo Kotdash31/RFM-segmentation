@@ -16,9 +16,10 @@ This project demonstrates how to segment customers using RFM analysis (Recency, 
 
 ### ⚙️ Tools & Technologies
 
-- **Python** (pandas, seaborn, matplotlib)
-- **Jupyter Notebook**
-- **CSV Dataset** (simulated e-commerce transactions)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 
 ### 📝 Results
  As a result of the analysis I've identified customers of champion segment and gave some recommendations aimed to retention and developing of the customer segment.

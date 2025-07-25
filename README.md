@@ -1,11 +1,19 @@
 # RFM Customer Segmentation 
 
+### 📌 Project Overview
 This project demonstrates how to segment customers using RFM analysis (Recency, Frequency, Monetary) based on transaction data.
 
 ---
 
-### 📌 Project Goals
+### 📌 Goals
+To identify "Champions" customers - the most valuable segment.
 
+### 📋 Input Data
+The analysis is based on the following CSV files:
+rfm_analysis_data.csv - transaction data
+
+
+### 📊 Steps
 - Clean and preprocess e-commerce sales data.
 - Calculate key customer metrics: Recency, Frequency, and Monetary Value.
 - Assign scores to each customer based on quantiles.
